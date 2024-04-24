@@ -20,5 +20,7 @@ Currently improving my knowledge and carrying out projects with HTML, CSS, Javas
 
 ### Conect with me:
 <br>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" <a href="https://www.linkedin.com/in/killian-camarote/"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" <a href="https://www.instagram.com/kilwolf/"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo" /> 
+  <a href="https://www.linkedin.com/in/killian-camarote/"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" />
+  <a href="https://www.instagram.com/kilwolf/"/>
